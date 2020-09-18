@@ -1,3 +1,3 @@
-module github.com/yizhePKU/goxxh
+module github.com/YizhePKU/goxxh
 
 go 1.15
