@@ -1,4 +1,4 @@
-package xxh
+package goxxh
 
 // #cgo LDFLAGS: -L${SRCDIR}/lib -lxxhash
 // #include <stdlib.h>
